@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkleine-cyber
+- 👋 Hi, I’m jkleine-cyber
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity fundementals
 - 💞️ I’m looking to collaborate on anything that deals with cybersecurity
